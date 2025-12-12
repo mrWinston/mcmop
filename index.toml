@@ -78,6 +78,11 @@ hash = "7a266a082b54627e5f95aa154871114fded8c0a06af104e49cf08668b869cfad"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "71dc04da11ad8f4a5d88db5505132a654ce033f05dc2fa4bb7aa28a42762086f"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
 metafile = true
@@ -508,6 +513,11 @@ hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "dc1fcf1d5c656c6c18416551f474586f7d6539e67c3f3ab255069e1961de26b1"
+metafile = true
+
+[[files]]
 file = "mods/just-hammers.pw.toml"
 hash = "1939889ce0f89529253d5a699e002443d28c63f3942376b274fe4acd379eeba5"
 metafile = true
@@ -718,6 +728,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "3412b4f702e7a1cfef7c04321a9264b85cb44cb50836e4b1f803b0b4c1a80bce"
+metafile = true
+
+[[files]]
 file = "mods/mythic-upgrades.pw.toml"
 hash = "d2eea47786f9d718d42fe1a4dd28c149bc5c39d6efea98b1c6dfee7dbf87f669"
 metafile = true
@@ -790,6 +805,16 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "a82f238f742cc233dd908c78ae50437bc3012950b4bb0afa7b570faed27c49fd"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "6e0e1e035d3662088d59d8bb9cbb25217fd9d954ab004a7d463f6ef6fa644db8"
 metafile = true
 
 [[files]]
@@ -1028,6 +1053,11 @@ hash = "df71b5d7427e9a508e9f298b5cdec84aa8c4fcb584beb0d16d86efb9d47b3bcd"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "12ffd7d9d5511848c57fdb470668189171aba315fe15ff44522d10a57d7acd1d"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "7c97460454f6938e7aeac8eee134f4a5f4703fdb01a22bf0b13a489cfafaa079"
 metafile = true
@@ -1100,6 +1130,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "a4f596b65b72b0c718e35cfb2e1a36e1887438b44a39daeec75a1c725a0441c4"
+metafile = true
+
+[[files]]
+file = "mods/wool-tweaks.pw.toml"
+hash = "749c794c240875e2c859343a2fd1e36f26ad91e0e80cac30d003eff3203b2e64"
 metafile = true
 
 [[files]]
@@ -1180,6 +1215,16 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "d2d5a9c835661b4f6f718fd057f03594b87aa49d1bcd9711af8553e51ea4a6fb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-beds.pw.toml"
+hash = "48f5227713491697281eec979e11c153c6fc68e7e43b9c2bb817dbe70fa3109b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
 metafile = true
 
 [[files]]
