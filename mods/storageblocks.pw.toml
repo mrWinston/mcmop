@@ -1,0 +1,13 @@
+name = "Storage Blocks"
+filename = "storageblocks-fabric-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OvmUp14V/versions/E0yTQhnI/storageblocks-fabric-1.20.jar"
+hash-format = "sha512"
+hash = "23809c0b9b9a2e3e6e73c801d6e0d7f6413f00ed739d6d7f71556bec46931adb7ea1e580351f84f54a84066ddff8a5c7eea167ff00a0194c14189adad24b74f1"
+
+[update]
+[update.modrinth]
+mod-id = "OvmUp14V"
+version = "E0yTQhnI"

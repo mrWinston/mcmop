@@ -1,0 +1,13 @@
+name = "Macaw's Windows"
+filename = "mcw-mcwwindows-2.4.1-mc1.20.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/Pj6cgTuw/mcw-mcwwindows-2.4.1-mc1.20.1fabric.jar"
+hash-format = "sha512"
+hash = "f03ca2aa4924d56d161a643c4ff027c2346f5428de39ec0f26f607af44fa4447352eda84cb82bc5ef95e52aa446faf7c7bc81985ffd1d981fc606e2c20f67a02"
+
+[update]
+[update.modrinth]
+mod-id = "C7I0BCni"
+version = "Pj6cgTuw"

@@ -1,0 +1,13 @@
+name = "Better Farming Right Click  + Right Click Harvest"
+filename = "better_farming_right_click-1.20.1-fabric-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RWrgTm1s/versions/xid3xe06/better_farming_right_click-1.20.1-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "15e82bba240c34b7412788cc3b68f38fd507ed2378e3870447baa1ec163592643748ba77ad18f97d5fdc05dfdb035ecbb24151e178a7812bab6af9b3421afb89"
+
+[update]
+[update.modrinth]
+mod-id = "RWrgTm1s"
+version = "xid3xe06"

@@ -1,0 +1,13 @@
+name = "mattus mods"
+author = "Mattu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e6b87242ffc64e226b6ec4e17cc7641ec7df2c86a8b3ec2e51f233143c5ab1b2"
+
+[versions]
+fabric = "0.18.1"
+minecraft = "1.20.1"

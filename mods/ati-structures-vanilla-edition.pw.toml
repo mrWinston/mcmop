@@ -1,0 +1,13 @@
+name = "ATi Structures - Vanilla Edition"
+filename = "ATi Structures Default V1.4.2 (1.20+).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YWVAO3wq/versions/jZbwvJdL/ATi%20Structures%20Default%20V1.4.2%20%281.20%2B%29.jar"
+hash-format = "sha512"
+hash = "850cdb7ec85d4a5d4d53c6b73018831a3ed73a1ab1be57145fab95e776e5a29bdbfba0b0c0ef1871c9cba488940bce66024075c21809d5f5cba2805bc8321a71"
+
+[update]
+[update.modrinth]
+mod-id = "YWVAO3wq"
+version = "jZbwvJdL"
