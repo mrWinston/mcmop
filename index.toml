@@ -13,10 +13,6 @@ file = "config/sparsestructures.json5"
 hash = "a909bf6da14bb2afc5ad47d62ba9dc371b7aa70e546f0409584c49bc48ce62e3"
 
 [[files]]
-file = "modrinth.index.json"
-hash = "c9f02a839aeb1a2f40c7edecb07086cf59d501d9a000ee7f093f1fc2aa23a3f6"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
 metafile = true
