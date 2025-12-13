@@ -218,11 +218,6 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
-metafile = true
-
-[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "704f8316694e021de35b8f18ec06cbde7601e20a1e46817fb5ef6fcfa3f980d9"
 metafile = true
