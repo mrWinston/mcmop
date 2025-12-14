@@ -9,6 +9,10 @@ file = "config/fallingtrees_common.json"
 hash = "8cc266a198ecef983fea348cdd8746adacd5462613b4119a89061fa60856c3aa"
 
 [[files]]
+file = "config/mousewheelie.hjson"
+hash = "a025b7016de7e5eb6aabfa283d8982dce4dada3357942120b6b6157304cc2bdb"
+
+[[files]]
 file = "config/sparsestructures.json5"
 hash = "a909bf6da14bb2afc5ad47d62ba9dc371b7aa70e546f0409584c49bc48ce62e3"
 
@@ -728,11 +732,6 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "92cc4d32cc6a7520f747b2277e3c841fbe40e2e3526cedeafcc7c8ef0a790a1b"
-metafile = true
-
-[[files]]
 file = "mods/mythic-upgrades.pw.toml"
 hash = "d2eea47786f9d718d42fe1a4dd28c149bc5c39d6efea98b1c6dfee7dbf87f669"
 metafile = true
@@ -1221,6 +1220,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "d2d5a9c835661b4f6f718fd057f03594b87aa49d1bcd9711af8553e51ea4a6fb"
 metafile = true
+
+[[files]]
+file = "oldmods"
+hash = "7080dd25f0c4fa5c9b723db1b047ba3dc22c2d0ba146874ed0037871b62cc35c"
 
 [[files]]
 file = "resourcepacks/fancy-beds.pw.toml"
