@@ -727,6 +727,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "3412b4f702e7a1cfef7c04321a9264b85cb44cb50836e4b1f803b0b4c1a80bce"
+metafile = true
+
+[[files]]
 file = "mods/mythic-upgrades.pw.toml"
 hash = "d2eea47786f9d718d42fe1a4dd28c149bc5c39d6efea98b1c6dfee7dbf87f669"
 metafile = true
