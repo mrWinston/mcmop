@@ -1222,10 +1222,6 @@ hash = "d2d5a9c835661b4f6f718fd057f03594b87aa49d1bcd9711af8553e51ea4a6fb"
 metafile = true
 
 [[files]]
-file = "oldmods"
-hash = "7080dd25f0c4fa5c9b723db1b047ba3dc22c2d0ba146874ed0037871b62cc35c"
-
-[[files]]
 file = "resourcepacks/fancy-beds.pw.toml"
 hash = "48f5227713491697281eec979e11c153c6fc68e7e43b9c2bb817dbe70fa3109b"
 metafile = true
