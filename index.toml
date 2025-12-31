@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "7789d83ff3759e3576786b35d8eb0c7748fa91f8985933a037597646261c46da"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "d160281be89427659a0649c4b17e351591d042ba6146968e934d591689fa1789"
+
+[[files]]
 file = "config/fallingtrees_common.json"
 hash = "8cc266a198ecef983fea348cdd8746adacd5462613b4119a89061fa60856c3aa"
 
@@ -220,6 +224,10 @@ metafile = true
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
+
+[[files]]
+file = "mods/copycats-3.0.4+mc.1.20.1-fabric-build.271.jar"
+hash = "594096ed834cff4fd2f1662e1dd914ee2cd0d454543e780db9742b9800efbc42"
 
 [[files]]
 file = "mods/crate-delight.pw.toml"
