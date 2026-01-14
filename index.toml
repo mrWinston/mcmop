@@ -1145,6 +1145,11 @@ hash = "b1a61e8c58ae66ee67efb1ecb6f4c48332346f82dbd91a60abf655461c993fa0"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "6159ff1811cb80df634352c75ec5a9685d2a3f68663e321ae78cd41165730d50"
+metafile = true
+
+[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "e17c2c575f2db23bb4e6cb7035093ec67f0c2189e7e3026075794579c6a05fd4"
 metafile = true
