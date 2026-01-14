@@ -146,8 +146,18 @@ hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "c603294c194b869fd14d2cdda3f0663f0137b1127b1fd2b627b3945854ef96c4"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
@@ -400,6 +410,11 @@ hash = "7ab5f79e8b66479b511114142df2e1e674d7b8c75d2f7e6ac46c08a19150334a"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "174c496d2d38d39ef7c531a34e43e1ec949d418816cdb2f8161dd6f2990f8752"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "376321a4e11e86d932670192b6ddebfd7b898c4e47e74a6b08c7c0123a0aa49c"
 metafile = true
@@ -635,6 +650,11 @@ hash = "bc91fa90e9f26f3ff3690c1a508647a162cd63dc36d815b8af0d6f5e01e5ecbf"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "ace2b470981f950cd04f22d9dbd8e57fc8a3e3059f282f36b720ed02a640da0e"
 metafile = true
@@ -702,6 +722,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "4b1b29ebfbbd9f23eb90c8c9f5113fce64c3ca605c8cad3aedaa25be83a82a53"
+metafile = true
+
+[[files]]
+file = "mods/minecells.pw.toml"
+hash = "6f63f1a385de8a10c289b9d5ac56c0e5e112058b80837192ee3f56dc699716e7"
 metafile = true
 
 [[files]]
@@ -805,6 +830,11 @@ hash = "9ca6184c0e93a0391aceeb746ac5fcf947db001fa981f5cb5fea94921d812a61"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "5beb6ef32d80ab0550baad15f1fd78f2c6168fcce4a18e14e23c47a1cc8ed099"
 metafile = true
@@ -872,6 +902,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "a812307bc32bf4fa246f43e3d7dfd758c6ad75fc54448660303664582e4d272e"
+metafile = true
+
+[[files]]
+file = "mods/roguelikedungeons.pw.toml"
+hash = "f092d2e3cca83a224aa88f0efdf571ef62710b281a0b9e444b992676c7eec52c"
 metafile = true
 
 [[files]]
@@ -1027,6 +1062,11 @@ metafile = true
 [[files]]
 file = "mods/terrestria.pw.toml"
 hash = "430111f41dfb59de77174dcfe054efba82cec8405e54ffc3c993133a0ce0fa79"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-castle.pw.toml"
+hash = "23d9df61f53646a37a6adc14fddd6947dac4bdb0b613f247e1ccfb2d13b84745"
 metafile = true
 
 [[files]]
