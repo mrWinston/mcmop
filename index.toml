@@ -400,6 +400,11 @@ hash = "605c081279d8e4e5c98e6a50304867214185d8b8f14434b71d388a20f4ad7d5d"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "1902c9a0ff2845ece3ce01249ec74a736af2fc5266ff53eba985212b95d6a908"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "b85d67305a4b4a367d8a18b26cc18f8ceaf8e002f68808d65c36b0d0b1c84c90"
 metafile = true
@@ -1137,6 +1142,11 @@ metafile = true
 [[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "b1a61e8c58ae66ee67efb1ecb6f4c48332346f82dbd91a60abf655461c993fa0"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "941a5b42bd121e307860484cfe923ff42ec8786e5bf61e378bc5b6f1bfa9c767"
 metafile = true
 
 [[files]]

@@ -16,6 +16,42 @@
 
   // this is a list of custom spread factors
   "customSpreadFactors": [
+    {
+      "structure": "minecells:black_bridge",
+      "factor": 1
+    },
+    {
+      "structure": "minecells:black_bridge_walls",
+      "factor": 1
+    },
+    {
+      "structure": "minecells:insufferable_crypt",
+      "factor": 1
+    },
+    {
+      "structure": "minecells:overworld_portal",
+      "factor": 1
+    },
+    {
+      "structure": "minecells:prison",
+      "factor": 1
+    },
+    {
+      "structure": "minecells:promenade",
+      "factor": 1
+    },
+    {
+      "structure": "minecells:promenade_wall_x",
+      "factor": 1
+    },
+    {
+      "structure": "minecells:promenade_wall_z",
+      "factor": 1
+    },
+    {
+      "structure": "minecells:ramparts",
+      "factor": 1
+    }
     // add the structures you want to modify in the format:
     // (don't forget to remove "//", and use dots for decimal numbers)
     //

@@ -1,0 +1,13 @@
+name = "Valkyrien Skies"
+filename = "valkyrienskies-120-2.4.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V5ujR2yw/versions/qByQbhLi/valkyrienskies-120-2.4.9.jar"
+hash-format = "sha512"
+hash = "28c92016ff4eb24f4bebeb70561d073c196b9d548fe63a9bdc98f4b355057759490a2369a3f0439e08cf1563a8ecbaad9889778e90b470216ffcac8567db3c79"
+
+[update]
+[update.modrinth]
+mod-id = "V5ujR2yw"
+version = "qByQbhLi"
